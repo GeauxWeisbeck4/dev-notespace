@@ -18,5 +18,43 @@
     "_site/**": true
   },
   "files.insertFinalNewline": true,
-  "markdown.styles": [".vscode/custom-tag-style.css"]
+  "markdown.styles": [".vscode/custom-tag-style.css"],
+  "note-macros": {
+    "Sprint": [
+      {
+        "type": "note",
+        "directory": "sprints",
+        "extension": ".md",
+        "name": "sprint-note",
+        "date": "yyyy-W"
+      }
+    ],
+    "Project": [
+      {
+        "type": "note",
+        "directory": "projects",
+        "extension": ".md",
+        "name": "project-note",
+        "date": "yyyy-MM-dd"
+      }
+    ],
+    "Story": [
+      {
+        "type": "note",
+        "directory": "stories",
+        "extension": ".md",
+        "name": "story-note",
+        "date": "yyyy-MM-dd"
+      }
+    ],
+    "Seedling": [
+      {
+        "type": "note",
+        "directory": "/digital-garden/seedlings",
+        "extension": ".md",
+        "name": "seedling-note",
+        "date": "yyyy-MM-dd"
+      }
+    ]
+  }
 }

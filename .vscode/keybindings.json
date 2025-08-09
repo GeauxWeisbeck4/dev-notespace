@@ -4,5 +4,37 @@
   {
     "key": "cmd+shift+n",
     "command": "foam-vscode.create-note"
+  },
+  {
+    "key": "cmd+shift+f",
+    "command": "foam-vscode.open-graph-view"
+  },
+  {
+    "key": "cmd+shift+s",
+    "command": "note-macros.sprint.create-note"
+  },
+  {
+    "key": "cmd+shift+p",
+    "command": "note-macros.project.create-note"
+  },
+  {
+    "key": "cmd+shift+t",
+    "command": "note-macros.story.create-note"
+  },
+  {
+    "key": "cmd+shift+y",
+    "command": "note-macros.seedling.create-note"
+  },
+  {
+    "key": "cmd+shift+e",
+    "command": "foam-vscode.open-foam-explorer"
+  },
+  {
+    "key": "cmd+shift+l",
+    "command": "foam-vscode.open-foam-links-view"
+  },
+  {
+    "key": "cmd+shift+g",
+    "command": "foam-vscode.open-foam-toc-view"
   }
 ]

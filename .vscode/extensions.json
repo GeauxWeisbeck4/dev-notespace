@@ -15,6 +15,9 @@
     "philipbe.theme-gray-matter",
     
     // Emojis for markdown files
-    "rbierner.markdown-emoji"
+    "rbierner.markdown-emoji",
+
+    // Create note macros
+    "neelyinnovations.note-macros"
   ]
 }

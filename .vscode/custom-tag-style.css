@@ -1,4 +1,8 @@
 .foam-tag{
   color:#022535;
   background-color: #0de9a0;
+  font-weight: bold;
+  padding: 2px 4px;
+  border-radius: 10px;
+  font-size: 1.15rem;
 }
